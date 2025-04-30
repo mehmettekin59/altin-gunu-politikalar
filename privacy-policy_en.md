@@ -1,4 +1,5 @@
 Privacy Policy
+
 Last Updated: May 15, 2025
 This Privacy Policy explains how the Gold Day application (hereinafter referred to as the "Application") protects users' privacy and how it collects, uses, stores, and shares user data.
 Before using the Application, please read this Privacy Policy carefully. By using the Application, you accept the practices described in this policy.
