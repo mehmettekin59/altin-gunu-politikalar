@@ -1,4 +1,5 @@
 Gizlilik Politikası
+
 Son Güncelleme: 15 Mayıs 2025
 Bu Gizlilik Politikası, Altın Günü uygulamasının (bundan sonra "Uygulama" olarak anılacaktır) kullanıcılarının gizliliğini nasıl koruduğunu ve kullanıcı verilerini nasıl topladığını, kullandığını, sakladığını ve paylaştığını açıklamaktadır.
 Uygulamayı kullanmadan önce, lütfen bu Gizlilik Politikasını dikkatlice okuyun. Uygulamayı kullanarak, bu politikada belirtilen uygulamaları kabul etmiş olursunuz.
